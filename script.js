@@ -1,7 +1,7 @@
-'use strict'
+'use strict';
 
 let a=5;
-console.log(a)
+console.log(a);
 
 // let answer=confirm ("are you here?");
 // console.log(answer);
@@ -12,8 +12,8 @@ console.log(a)
 // console.log(typeof(null));
 // console.log(4+" - object")
 
-let incr=10,
-    decr=10;
+// let incr=10,
+//     decr=10;
 
 // incr++;
 // decr--;
